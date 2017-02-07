@@ -1,0 +1,25 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Example: Frequentist Estimation and Bayesian Estimation}{section.1}% 2
+\BOOKMARK [1][-]{section.2}{Normal Distribution}{}% 3
+\BOOKMARK [2][-]{subsection.2.1}{Maximum Likelihood Estimation}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{Wishart distribution}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{Inverse-Wishart distribution}{section.3}% 6
+\BOOKMARK [1][-]{section.4}{Schur Complement}{}% 7
+\BOOKMARK [1][-]{section.5}{Block Matrices}{}% 8
+\BOOKMARK [1][-]{section.6}{Concentration Graph Models}{}% 9
+\BOOKMARK [2][-]{subsection.6.1}{Some concepts from graph theory}{section.6}% 10
+\BOOKMARK [2][-]{subsection.6.2}{Concentration Graph Models}{section.6}% 11
+\BOOKMARK [3][-]{subsubsection.6.2.1}{\(Negative\) Log Likelihood}{subsection.6.2}% 12
+\BOOKMARK [3][-]{subsubsection.6.2.2}{Iterative Proportional Fitting \(IPF\)}{subsection.6.2}% 13
+\BOOKMARK [3][-]{subsubsection.6.2.3}{Decomposable graphs}{subsection.6.2}% 14
+\BOOKMARK [3][-]{subsubsection.6.2.4}{Iterative Partial Minimization\(IPM\)}{subsection.6.2}% 15
+\BOOKMARK [3][-]{subsubsection.6.2.5}{Application of IPM to maximizing l*\(\)}{subsection.6.2}% 16
+\BOOKMARK [3][-]{subsubsection.6.2.6}{Bayesian Inference for Concentration Graph Models}{subsection.6.2}% 17
+\BOOKMARK [3][-]{subsubsection.6.2.7}{The G-Wishart distribution}{subsection.6.2}% 18
+\BOOKMARK [3][-]{subsubsection.6.2.8}{Sampling from the G-Wishart if G is decomposable}{subsection.6.2}% 19
+\BOOKMARK [3][-]{subsubsection.6.2.9}{Block Gibbs-Sampling for G-Wishart if G is not decomposable}{subsection.6.2}% 20
+\BOOKMARK [3][-]{subsubsection.6.2.10}{Other Sampling Mechanisms for the G-Wishart}{subsection.6.2}% 21
+\BOOKMARK [1][-]{section.7}{Covariance Graph Models}{}% 22
+\BOOKMARK [2][-]{subsection.7.1}{Graphical Lasso}{section.7}% 23
+\BOOKMARK [2][-]{subsection.7.2}{SPACE algorithm}{section.7}% 24
+\BOOKMARK [2][-]{subsection.7.3}{CONCORD algorithm}{section.7}% 25
